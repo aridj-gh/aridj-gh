@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aridj-gh
+- 👋 Hi, I’m @aridj-gh a computer science engineering sudent
 - 👀 I’m interested in ...everything
 - 🌱 I’m currently learning ... coding , pcb's and machine learning 
 - 💞️ I’m looking to collaborate on ...building IOT projects and ML models
